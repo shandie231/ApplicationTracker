@@ -1,0 +1,31 @@
+.navBtn {
+  background-color: steelblue;
+  color: white;
+  padding: 10px;
+  border-color: steelblue;
+  border-width: 1px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  float: left;
+  cursor: pointer;
+
+  &:hover {
+  background-color: darken(lightblue, 15);
+  }
+}
+.navBtn:visited {
+  text-decoration: none;
+  background-color: steelblue;
+  color: white;
+  padding: 10px;
+  border-color: steelblue;
+  border-width: 1px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  float: left;
+  cursor: pointer;
+
+  &:hover {
+  background-color: darken(lightblue, 15);
+  }
+}
