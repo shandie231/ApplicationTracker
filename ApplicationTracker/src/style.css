@@ -1,5 +1,5 @@
 .navBtn {
-  background-color: steelblue;
+  background-color: lightblue;
   color: white;
   padding: 10px;
   border-color: steelblue;
@@ -28,4 +28,8 @@
   &:hover {
   background-color: darken(lightblue, 15);
   }
+}
+
+.input {
+  width: 20px;
 }
